@@ -3,14 +3,14 @@ A remake of the popular game Snake.
 
 To play the game, either open the SNAYK2.jar file or run the Game.java file.
 
-###################################################################################################################
+####################################################################################
 Instructions: 
 
 Use the up, down, left and right keys on your keyboard to controll the movement of the Snayk. Eat as many Fuud objects as you
 can. Red Fuud are stationary and are worth 1 point, while Blue Fuud jump around and are worth 2 points. The Snayk can travel
 through the walls of the board. If the Snayk runs into itself, YOU LOSE!
 
-###################################################################################################################
+####################################################################################
 Implementation:
 
 My implementation of this game utilizes an object oriented programming technique.
@@ -30,7 +30,7 @@ The GamCourt.java class contains the majority of the game logic. It contains ins
 
 The Game.java class is the runnable main class that contains the Java Swing front-end organization of the game.
 
-###################################################################################################################
+####################################################################################
 
 Enjoy!
 
